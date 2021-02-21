@@ -1,18 +1,12 @@
 
-## ▂▃▅▇█▓▒░  INSTALLATION  ░▒▓█▇▅▃▂
-
 1) - Put the folder "scrp_emotes" into your server resource folder.
 2) - Add "start scrp_emotes" to your server.cfg file
 
-
-## ▂▃▅▇█▓▒░     USAGE      ░▒▓█▇▅▃▂
 
 Default command is /e [emotename]
 Default key for cancelling emote is [SPACEBAR]
 If you wish to change something feel free to do it, head to "main.lua" and edit as you wish, there are some basic instruction there *thumbs up*.
 
-
-## ▂▃▅▇█▓▒░   EMOTE LIST   ░▒▓█▇▅▃▂
 
 smoke2
 smoke2 
@@ -168,6 +162,3 @@ vomit
 vomit2
 vomit3
 vomit4
-
-
-# Enjoy -Saam.exe
